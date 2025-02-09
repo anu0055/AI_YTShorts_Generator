@@ -55,13 +55,20 @@ MINIMAX_API_KEY=your_minimax_api_key
 python Generate_VideoForYT.py
 ```
 ### **How It Works:**
-1️⃣ Enter a **topic** for your YouTube Shorts  
-2️⃣ AI generates a **script** based on the topic  
-3️⃣ ElevenLabs creates a **realistic AI voiceover**  
-4️⃣ Minimax AI generates an **AI-powered video**  
-5️⃣ The script **merges video & audio automatically**  
-6️⃣ Final video is saved as **`final_video.mp4`**  
+1️⃣ Enter a topic for your YouTube Shorts (⭐Remember there is a default propmt for generating 'riddles' in the main function which you can change as per your wish)
+-
+2️⃣ AI generates a script based on the topic
+-
+3️⃣ ElevenLabs creates a realistic AI voiceover
+-
+4️⃣ Minimax AI generates an AI-powered video
+-
+5️⃣ The script merges video & audio automatically
+-
+6️⃣ Final video is saved as final_video.mp4
+-
 7️⃣ Important Note 1: The final video that will be generate will be around 6-8 seconds**
+-
 8️⃣ Important Note 2: Also for Eleven Labs API you can get 10000 credits for free, Minimax ai API you can get upto 3 videos for free.
 ---
 
